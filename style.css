@@ -152,6 +152,7 @@ a.gumbi:link {
     padding: 8px;
     text-align: center;
     border-radius: 3px;
+    color: white;
 }
 
 a.gumbi:hover {
